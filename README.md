@@ -1,4 +1,5 @@
-# Proyecto1-Progra3
+# Proyecto1-Progra3 AGENDA SOCIAL
+
 Se realizará la siguiente aplicación, con la siguiente serie de reglas y terminologías.
 1. La interfaz del mismo queda a criterio del desarrollador pero debe visualizarse similar a la
 siguiente.
